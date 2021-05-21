@@ -1,0 +1,18 @@
+addMovie Don 2006 Action Comedy
+addMovie Tiger 2008 Drama
+addMovie Padmavat 2006 Comedy
+addUser SRK
+addUser SRK
+addUser Salman
+addUser Deepika
+addReview SRK Don 2
+addReview SRK
+addReview
+addReview
+addReview
+updateReview SRK Don 10
+deleteReview SRK Tiger
+listReview SRK
+topReview 1 Year 2006
+topReview 2 Genre Comedy
+exit
